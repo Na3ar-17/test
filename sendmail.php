@@ -14,7 +14,7 @@
     // $mail->setFrom('romanblajkevych@gmail.com ');
     //кому лист
     
-    $mail->AddAddress('praktukaADM2023@gmail.com');
+    $mail->AddAddress('praktukaadm2023@gmail.com');
     
     $mail->Subject = 'Form';
 
